@@ -125,7 +125,7 @@ export default {
     getData () {
       this.$axios
         .get(
-          'https://dummyapi.io/data/v1/post/628a239e2130ef8b741c8e75/comment?limit=50', {
+          'https://dummyapi.io/data/v1/post/62a5c4dc5754d9c24814b55f/comment?limit=50', {
             headers: {
               'app-id': '62236354b7ba3eea9f59dd77',
               'Content-Type': 'application/json',
@@ -177,7 +177,7 @@ export default {
           'https://dummyapi.io/data/v1/comment/create', {
             owner: this.currentUserId ? this.currentUserId : localId || '',
             message: this.message,
-            post: '628a239e2130ef8b741c8e75'
+            post: '62a5c4dc5754d9c24814b55f'
           }, {
             headers: {
               'app-id': '62236354b7ba3eea9f59dd77',

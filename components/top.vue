@@ -9,7 +9,7 @@
             class="logo"
           >
         </Transition>
-        <h4>Undangan Pernikahan Digital<br>Aldi & Annisa</h4>
+        <h4>Undangan Pernikahan Digital<br>Ferian & Listiana</h4>
         <font-awesome-icon v-scroll-to="'#Mempelai'" :icon="['fa', 'chevron-circle-down']" class="upDownAnimate mt-3" />
       </div>
     </div>
