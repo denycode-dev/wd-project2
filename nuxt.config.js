@@ -4,7 +4,7 @@ export default {
     // host: '192.168.136.46' // default: localhost
   },
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: true,
+  ssr: false,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
