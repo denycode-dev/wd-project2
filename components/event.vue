@@ -4,6 +4,7 @@
       src="https://app.sangmempelai.id/webview/template/bg/6703516c2ce92988d1f643d5ae7a1a0d.png"
       class="icons mt-4"
       alt="icons"
+      loading="lazy"
     >
     <h3 class="pt-3">
       Rangkaian Acara
@@ -80,6 +81,7 @@
       src="https://app.sangmempelai.id/webview/template/bg/353342e378c6a8ef955a027da32db088.png"
       class="icons mt-4"
       alt="icons"
+      loading="lazy"
     >
     <h3 class="py-1">
       Denah Lokasi

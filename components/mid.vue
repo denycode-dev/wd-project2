@@ -4,6 +4,7 @@
       src="https://app.sangmempelai.id/webview/template/bg/6703516c2ce92988d1f643d5ae7a1a0d.png"
       class="icons mt-4"
       alt="icons"
+      loading="lazy"
     >
     <h2 class="pt-3">
       بسم الله الرحمن الرحيم
@@ -23,7 +24,7 @@
         Minggu, 17 Juli 2022
       </p>
       <vue-countdown-timer
-        class="text-white mt-3 mx-0 px-0"
+        class="text-white mt-3 mx-n2 px-0"
         :start-time="Date()"
         :end-time="'2022-07-17 09:00:00'"
         :interval="1000"
@@ -55,13 +56,15 @@
       src="https://app.sangmempelai.id/webview/template/bg/6703516c2ce92988d1f643d5ae7a1a0d.png"
       class="icons mt-4"
       alt="icons"
+      loading="lazy"
     >
     <div class="row mt-4">
       <div class="col-12 col-lg-6">
         <img
           src="../static/images/profile-2.png"
           class="profile shadow mb-2"
-          alt="resti"
+          alt="Listiana Hikmah"
+          loading="lazy"
         >
         <h4 class="text-capitalize font-weight-bold pb-0 mb-0">
           Listiana Hikmah
@@ -74,7 +77,8 @@
         <img
           src="../static/images/profile-1.png"
           class="profile shadow mb-2"
-          alt="tatang"
+          alt="Ferian Cahyana"
+          loading="lazy"
         >
         <h4 class="text-capitalize font-weight-bold pb-0 mb-0">
           Ferian Cahyana
@@ -88,6 +92,7 @@
       src="https://app.sangmempelai.id/webview/template/bg/353342e378c6a8ef955a027da32db088.png"
       class="icons mt-4"
       alt="icons"
+      loading="lazy"
     >
   </div>
 </template>
