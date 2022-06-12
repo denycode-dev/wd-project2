@@ -79,6 +79,10 @@
       alt="icons"
       loading="lazy"
     >
+
+    <footer class="mt-3">
+      <a href="https://wa.me/+6283174869601" class="text-dark">2022 &copy; Deni Irawan Nugraha</a>
+    </footer>
   </div>
 </template>
 
