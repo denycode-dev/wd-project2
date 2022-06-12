@@ -46,7 +46,7 @@ export default {
   opacity: 0;
 }
 .bg {
-  background-image: url('https://app.sangmempelai.id/webview/template/bg/f1bdd74668c06e8aef027f242a6893e7.jpg');
+  background-image: url('https://ik.imagekit.io/denycode/asset/wd-project/85b1b13fb4ddec4abe0deb91884f9507_9BB6V2Dws.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655007031953');
   width: 100vw !important;
   height: 100vh;
   background-color: #E3DBF0;

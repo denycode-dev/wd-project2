@@ -62,7 +62,7 @@ export default {
 
   fontawesome: {
     icons: {
-      solid: ['faHome', 'faHeart', 'faMapMarkerAlt', 'faCameraAlt', 'faComment', 'faClock', 'faTable', 'faCopy', 'faChevronCircleDown']
+      solid: ['faHouse', 'faHeart', 'faMap', 'faCameraAlt', 'faComment', 'faClock', 'faTable', 'faCopy', 'faCircleChevronDown', 'faCalendar']
     }
   },
 

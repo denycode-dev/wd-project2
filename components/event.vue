@@ -23,7 +23,7 @@
           <p class="text-capitalize">
             <font-awesome-icon
               class="icon-fa"
-              :icon="['fa', 'map-marker-alt']"
+              :icon="['fa', 'map']"
             />kp.cisedong rt 02 rw 10 desa mekarjaya kecamatan cihampelas kab.bandung barat
           </p>
         </div>
@@ -51,7 +51,7 @@
           <p class="text-capitalize">
             <font-awesome-icon
               class="icon-fa"
-              :icon="['fa', 'map-marker-alt']"
+              :icon="['fa', 'map']"
             />kp.cisedong rt 02 rw 10 desa mekarjaya kecamatan cihampelas kab.bandung barat
           </p>
         </div>

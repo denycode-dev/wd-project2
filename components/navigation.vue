@@ -1,7 +1,7 @@
 <template>
   <div class="navigation btn-group btn-group-sm shadow-sm">
     <button v-scroll-to="'#top'" class="btn">
-      <font-awesome-icon :icon="['fa', 'home']" class="icon-fa" />
+      <font-awesome-icon :icon="['fa', 'house']" class="icon-fa" />
       <br>
       Home
     </button>
@@ -11,7 +11,7 @@
       Mempelai
     </button>
     <button v-scroll-to="'#event'" class="btn">
-      <font-awesome-icon :icon="['fa', 'map-marker-alt']" class="icon-fa" />
+      <font-awesome-icon :icon="['fa', 'calendar']" class="icon-fa" />
       <br>
       Acara
     </button>

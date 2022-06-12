@@ -10,7 +10,7 @@
           >
         </Transition>
         <h4>Undangan Pernikahan Digital<br>Ferian & Listiana</h4>
-        <font-awesome-icon v-scroll-to="'#Mempelai'" :icon="['fa', 'chevron-circle-down']" class="upDownAnimate mt-3" />
+        <font-awesome-icon v-scroll-to="'#Mempelai'" :icon="['fa', 'circle-chevron-down']" class="upDownAnimate mt-3" />
       </div>
     </div>
   </div>
