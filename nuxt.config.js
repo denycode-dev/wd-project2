@@ -4,7 +4,7 @@ export default {
     // host: '192.168.136.46' // default: localhost
   },
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
+  ssr: true,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -76,5 +76,9 @@ export default {
       description: 'Undangan digital pernikahan Ferian Cahyana dan  Listiana Hikmah',
       short_name: 'F & L'
     }
+  },
+
+  performance: {
+    hints: false
   }
 }
