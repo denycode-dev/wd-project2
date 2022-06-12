@@ -8,7 +8,7 @@
     <b-modal v-model="modalShow" hide-footer centered hide-header>
       <div class="text-center">
         <img src="https://ik.imagekit.io/denycode/asset/wd-project/pngtree-protokol-kesehatan-5m-covid-19-masker-jaga-jarak-cuci-tangan-png-image_4378110_6Rpyjwwcu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655008898747" class="w-100" alt="protokol">
-        <button class="btn btn-sm rounded text-dark mt-3 shadow-sm font-weight-bold border" style="background: #8179A5;" @click="modalShow = false">
+        <button class="btn btn-sm rounded text-white mt-3 shadow-sm font-weight-bold border" style="background: #8179A5;" @click="modalShow = false">
           tutup
         </button>
       </div>

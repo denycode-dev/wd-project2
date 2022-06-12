@@ -46,7 +46,7 @@
           </p>
           <p>
             <font-awesome-icon class="icon-fa" :icon="['fa', 'clock']" /> Pukul
-            10:30 WIB
+            10:30 WIB s/d Selesai
           </p>
           <p class="text-capitalize">
             <font-awesome-icon
